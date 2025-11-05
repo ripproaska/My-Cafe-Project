@@ -15,13 +15,9 @@ This is a simple command-line Python application that simulates a simple orderin
 # How to Run 
 Clone the repository:
 
-git clone https://github.com/yourusername/brew-books.git
-cd brew-books
-
 Make sure you have Python 3 installed.
 
 Run the application:
-
 python main.py
 
 #Requirement 
